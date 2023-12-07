@@ -1,9 +1,9 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-import sumTwoNumber from "./src/index.js";
+import sumTwoNumber from './src/index.js';
 
-console.log("Hello, Hexlet!");
+console.log('Hello, Hexlet!');
 
-console.log(_.last(["one", "two"]));
+console.log(_.last(['one", "two']));
 
-console.log(sumTwoNumber(2, 5));
+console.log(sumTwoNumber);
